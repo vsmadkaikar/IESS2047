@@ -1,0 +1,173 @@
+{
+    "weboutputs_summary_table": {
+        "Webtool Page": [
+            "Overview"
+        ],
+        "Webtool Tab": [
+            "All Energy"
+        ],
+        "Position": [
+            "Top"
+        ],
+        "Title": [
+            "Energy Demand"
+        ],
+        "Axis Unit": [
+            "TWh/yr"
+        ],
+        "Named Range": [
+            "output.energy.demand"
+        ],
+        "Graph Type": [
+            "stacked Area with overlying Line(s)"
+        ]
+    },
+    "example_pathways": {
+        "1": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "output_lever_names_grouped": {
+        "Electricity Generation": {
+            "names": [
+                "Gas Power Stations",
+                "Coal Power Stations",
+                "Efficiency of Coal Power Stations",
+                "CCS power stations",
+                "CCS Power Stations ",
+                "CCS Fuel Mix ",
+                "Nuclear Power Stations",
+                "Large Hydro Power Stations ",
+                "Solar Photovoltaic ",
+                "Concentrated Solar Power ",
+                "Onshore Wind",
+                "Offshore Wind",
+                "Small Hydro Power Stations ",
+                "Distribted Solar PV( Solar Rooftop)",
+                "Cross Border Electricity Trade "
+            ],
+            "tooltips": [
+                [
+                    "Gas Power Stations"
+                ],
+                [
+                    "Coal Power Stations"
+                ],
+                [
+                    "Efficiency of Coal Power Stations"
+                ],
+                [
+                    "CCS power stations"
+                ],
+                [
+                    "CCS Power Stations "
+                ],
+                [
+                    "CCS Fuel Mix "
+                ],
+                [
+                    "Nuclear Power Stations"
+                ],
+                [
+                    "Large Hydro Power Stations "
+                ],
+                [
+                    "Solar Photovoltaic "
+                ],
+                [
+                    "Concentrated Solar Power "
+                ],
+                [
+                    "Onshore Wind"
+                ],
+                [
+                    "Offshore Wind"
+                ],
+                [
+                    "Small Hydro Power Stations "
+                ],
+                [
+                    "Distribted Solar PV( Solar Rooftop)"
+                ],
+                [
+                    "Cross Border Electricity Trade "
+                ]
+            ]
+        },
+        "Bioenergy Supply": {
+            "names": [
+                "Agriculture and land use",
+                "Biomass Residue Production ",
+                "Biomass Residue End Use Application ",
+                "First and Second Generation Biofuel Production ",
+                "Biofuel Production from Algae ",
+                "Energy from Waste",
+                "Hydrogen Production for Telecom and Transport "
+            ],
+            "tooltips": [
+                [
+                    "Agriculture and land use"
+                ],
+                [
+                    "Biomass Residue Production "
+                ],
+                [
+                    "Biomass Residue End Use Application "
+                ],
+                [
+                    "First and Second Generation Biofuel Production "
+                ],
+                [
+                    "Biofuel Production from Algae "
+                ],
+                [
+                    "Energy from Waste"
+                ],
+                [
+                    "Hydrogen Production for Telecom and Transport "
+                ]
+            ]
+        },
+        "Fossil Fuel Energy": {
+            "names": [
+                "Domestic Gas Production",
+                "Domestic Coal Production",
+                "Domestic Oil Production"
+            ],
+            "tooltips": [
+                [
+                    "Domestic Gas Production"
+                ],
+                [
+                    "Domestic Coal Production"
+                ],
+                [
+                    "Domestic Oil Production"
+                ]
+            ]
+        }
+    }
+}
